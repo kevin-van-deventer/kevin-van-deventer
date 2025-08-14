@@ -2,7 +2,7 @@
 
 - Senior Fullstack Web Developer at [Fitzgerald Hosing](https://fitzgeraldhousing.org.au/)
 - Freelance Fullstack Web Developer
-- Studying Fullstack Web Developer Diploma at [OpenClassrooms](https://openclassrooms.com/)
+- Completed Fullstack Web Developer at [OpenClassrooms](https://openclassrooms.com/)
 
 
 
